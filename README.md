@@ -1,6 +1,6 @@
 # Optimized Charging Scheme of Grid-connected Sustainable Energy System
 This repository contains Python code that implements an optimized charging scheme for an Electric Vehicle (EV) and a Battery Energy Storage System (BESS). The optimization aims to minimize the cost of electricity consumption while considering various constraints and parameters.
-It was created on June 28, 2023 for a simple testing buliding system with several assumptions. The optimization problem in the provided code is a mixed-integer linear programming (MILP) problem. The battery can not be charging or discharging simultaneously，which is constrained by binary variables, but not included in the provdied codes.
+It was created on June 28, 2023 for a simple testing buliding system with several assumptions. The optimization problem in the provided code is a mixed-integer linear programming (MILP) problem. The battery can not be charging or discharging simultaneously，which is constrained by binary variables, but not included in the provided codes.
 
 **Prerequisites**
 To run the code, you need to have the following dependencies installed:
